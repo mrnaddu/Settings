@@ -29,48 +29,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj"
-              },
-              "C:\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj": {
-                "projectPath": "C:\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj"
-              },
-              "C:\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj": {
-                "projectPath": "C:\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj"
-              },
-              "C:\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj": {
-                "projectPath": "C:\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj"
-              },
-              "C:\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj": {
-                "projectPath": "C:\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj"
-              },
-              "C:\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj": {
-                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj"
-              },
-              "C:\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj"
-              },
-              "C:\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj": {
-                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj"
-              },
-              "C:\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj": {
-                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj"
-              },
-              "C:\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj": {
-                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj"
-              },
-              "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj": {
-                "projectPath": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj"
-              },
-              "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj"
-              },
-              "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj": {
-                "projectPath": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj"
               },
@@ -163,12 +121,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
@@ -177,12 +129,6 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
@@ -191,12 +137,6 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
@@ -299,12 +239,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
               },
@@ -369,45 +303,15 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
-              }
-            }
+            "projectReferences": {}
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
-            "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
-              }
-            }
+            "projectReferences": {}
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
-            "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -528,15 +432,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
@@ -545,15 +440,6 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
@@ -562,15 +448,6 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
@@ -692,9 +569,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj"
               }
@@ -755,9 +629,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
               }
@@ -818,15 +689,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
               "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
                 "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
               },

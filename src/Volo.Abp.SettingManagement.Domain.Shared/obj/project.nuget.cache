@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "xPLWSfXbDngXzUzJbQq7S0ID7kKCpSGsexB9W91zZ8D9t8OFohUHQdTigqUtVhdZ0LOFbS13jyROXWi4vAgF3Q==",
-  "success": false,
+  "dgSpecHash": "FJizJoY03OSdkZTp9cv1kXNBezG4HbWH0MzaNdvZ7aBWwMLDTDfYZFB2oqrKIEoO1gpaGxOlRy3Ev9NfUv3Zbg==",
+  "success": true,
   "projectFilePath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\1.0.0\\microsoft.extensions.fileproviders.abstractions.1.0.0.nupkg.sha512",
@@ -32,39 +32,6 @@
         ".NETStandard,Version=v2.0",
         ".NETStandard,Version=v2.1",
         ".NETCoreApp,Version=v7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
       ]
     }
   ]

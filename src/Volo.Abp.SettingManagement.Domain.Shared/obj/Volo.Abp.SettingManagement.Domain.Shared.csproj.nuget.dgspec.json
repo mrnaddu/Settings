@@ -30,45 +30,15 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
-              }
-            }
+            "projectReferences": {}
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
-            "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
-              }
-            }
+            "projectReferences": {}
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
-            "projectReferences": {
-              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
-              },
-              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

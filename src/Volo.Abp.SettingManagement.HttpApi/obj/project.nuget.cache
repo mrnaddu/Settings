@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "fNYqwqUrSogeONgdjjwUdHUWccFgWStpA0PWFW2tPrpvJIu2Ayz4EmEMJ2p1F/Qy4q71dXOeF2Sh0Y4/J7uuBQ==",
-  "success": false,
+  "dgSpecHash": "RckaFJCf/kAYWj7SIJ0keL+lx6ElGEIglbxzWnAsZiBj4U/IG0eOUppcfr2MbdNspn0Y155vcK/vxkp+bokgMw==",
+  "success": true,
   "projectFilePath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\1.0.0\\microsoft.extensions.fileproviders.abstractions.1.0.0.nupkg.sha512",
@@ -26,60 +26,6 @@
       "warningLevel": 1,
       "message": "Volo.Abp.SettingManagement.Domain.Shared does not provide an inclusive lower bound for dependency Microsoft.Extensions.FileProviders.Embedded. An approximate best match of Microsoft.Extensions.FileProviders.Embedded 1.0.0 was resolved.",
       "libraryId": "Microsoft.Extensions.FileProviders.Embedded",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         "net7.0"
       ]

@@ -198,8 +198,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": "1.0.0",
           "Volo.Abp.SettingManagement.Domain.Shared": "1.0.0"
         },
         "compile": {
@@ -213,8 +211,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Web.Theming\\Volo.Abp.AspNetCore.Components.Web.Theming.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj": "1.0.0",
           "Volo.Abp.SettingManagement.Application.Contracts": "1.0.0"
         },
         "compile": {
@@ -228,9 +224,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": "1.0.0",
           "Microsoft.Extensions.FileProviders.Embedded": "(, )"
         },
         "compile": {
@@ -972,7 +965,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Server.Theming\\Volo.Abp.AspNetCore.Components.Server.Theming.csproj",
       "Volo.Abp.SettingManagement.Blazor >= 1.0.0"
     ]
   },
@@ -1003,9 +995,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Server.Theming\\Volo.Abp.AspNetCore.Components.Server.Theming.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Server.Theming\\Volo.Abp.AspNetCore.Components.Server.Theming.csproj"
-            },
             "C:\\Settings\\src\\Volo.Abp.SettingManagement.Blazor\\Volo.Abp.SettingManagement.Blazor.csproj": {
               "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Blazor\\Volo.Abp.SettingManagement.Blazor.csproj"
             }
@@ -1048,78 +1037,6 @@
       "warningLevel": 1,
       "message": "Volo.Abp.SettingManagement.Domain.Shared does not provide an inclusive lower bound for dependency Microsoft.Extensions.FileProviders.Embedded. An approximate best match of Microsoft.Extensions.FileProviders.Embedded 1.0.0 was resolved.",
       "libraryId": "Microsoft.Extensions.FileProviders.Embedded",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Server.Theming\\Volo.Abp.AspNetCore.Components.Server.Theming.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Server.Theming\\Volo.Abp.AspNetCore.Components.Server.Theming.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Web.Theming\\Volo.Abp.AspNetCore.Components.Web.Theming.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.AspNetCore.Components.Web.Theming\\Volo.Abp.AspNetCore.Components.Web.Theming.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         "net7.0"
       ]

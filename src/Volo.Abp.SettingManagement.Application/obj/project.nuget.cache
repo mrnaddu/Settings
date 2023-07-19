@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "pTeFhHenKYhBmIdl2By3rpVoBXUkKAEQtsDawFC48Nj11mRLBuW2s8SCO3Fp7FrzNPgBmOG5o51/rQ0ge78EWg==",
-  "success": false,
+  "dgSpecHash": "FsfLGtWZK4xpNlXdnGeNsOQjL0Qce2ONHNENIbsY7Piblu89y5Uy9EOOg/ErSU81Nc0YN1p2lPmIkwLpNI2H3Q==",
+  "success": true,
   "projectFilePath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\1.0.0\\microsoft.extensions.fileproviders.abstractions.1.0.0.nupkg.sha512",
@@ -37,96 +37,6 @@
       "warningLevel": 1,
       "message": "Volo.Abp.SettingManagement.Domain does not provide an inclusive lower bound for dependency Polly. An approximate best match of Polly 1.0.0 was resolved.",
       "libraryId": "Polly",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         "net7.0"
       ]

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "t4McZMEJ58Wz8RL+5dOWG9z7O2sa7oOu7k2YYWcnD111+nnmIAyWQyN07kLaT1QFImVCpekxuFLrgclGY/enTQ==",
-  "success": false,
+  "dgSpecHash": "+1XxFIADtyhAzniJp7ngIhlx1utxT2QyZqfVNi3XQBRMrBKauBTJvMsSTk7sGHNXyeR7uAcBWMJavEbYIcRxZg==",
+  "success": true,
   "projectFilePath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.MongoDB\\Volo.Abp.SettingManagement.MongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\1.0.0\\microsoft.extensions.fileproviders.abstractions.1.0.0.nupkg.sha512",
@@ -41,83 +41,6 @@
       "warningLevel": 1,
       "message": "Volo.Abp.SettingManagement.Domain does not provide an inclusive lower bound for dependency Polly. An approximate best match of Polly 1.0.0 was resolved.",
       "libraryId": "Polly",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.MongoDB\\Volo.Abp.MongoDB.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.MongoDB\\Volo.Abp.MongoDB.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         ".NETStandard,Version=v2.0",
         ".NETStandard,Version=v2.1",

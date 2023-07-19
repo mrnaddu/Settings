@@ -213,9 +213,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": "1.0.0",
           "Microsoft.Extensions.FileProviders.Embedded": "(, )"
         },
         "compile": {
@@ -423,9 +420,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": "1.0.0",
           "Microsoft.Extensions.FileProviders.Embedded": "(, )"
         },
         "compile": {
@@ -633,9 +627,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": "1.0.0",
           "Microsoft.Extensions.FileProviders.Embedded": "(, )"
         },
         "compile": {
@@ -1511,19 +1502,13 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
       "NETStandard.Library >= 2.0.3",
       "Volo.Abp.SettingManagement.Domain.Shared >= 1.0.0"
     ],
     ".NETStandard,Version=v2.1": [
-      "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
       "Volo.Abp.SettingManagement.Domain.Shared >= 1.0.0"
     ],
     "net7.0": [
-      "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
       "Volo.Abp.SettingManagement.Domain.Shared >= 1.0.0"
     ]
   },
@@ -1557,12 +1542,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
-            },
-            "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
-            },
             "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
               "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
             }
@@ -1571,12 +1550,6 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
-            },
-            "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
-            },
             "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
               "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
             }
@@ -1585,12 +1558,6 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
-            },
-            "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-              "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
-            },
             "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
               "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
             }
@@ -1676,61 +1643,6 @@
       "warningLevel": 1,
       "message": "Volo.Abp.SettingManagement.Domain.Shared does not provide an inclusive lower bound for dependency Microsoft.Extensions.FileProviders.Embedded. An approximate best match of Microsoft.Extensions.FileProviders.Embedded 1.0.0 was resolved.",
       "libraryId": "Microsoft.Extensions.FileProviders.Embedded",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0",
-        ".NETStandard,Version=v2.1",
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         ".NETStandard,Version=v2.0",
         ".NETStandard,Version=v2.1",

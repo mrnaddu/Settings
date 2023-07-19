@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rh85VYvE5dvolYYiu9HYGinyzxs1bm1QrfMJwEckKL89PRMTjzCWv38Dr+fK6FUEV3wOdd5hzZhN1RMJTzgu2Q==",
-  "success": false,
+  "dgSpecHash": "xY2fYb6S/8YG0vcM5stqgwD0g6OWAnGtRUCx/aPTtid4z3/zXINMvseM2PRI46I2GjWKxXKbFO72tcWrYd3iYw==",
+  "success": true,
   "projectFilePath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Installer\\Volo.Abp.SettingManagement.Installer.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.VirtualFileSystem\\Volo.Abp.VirtualFileSystem.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.VirtualFileSystem\\Volo.Abp.VirtualFileSystem.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

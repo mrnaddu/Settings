@@ -2486,9 +2486,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": "1.0.0",
           "Polly": "(, )",
           "Volo.Abp.SettingManagement.Domain.Shared": "1.0.0"
         },
@@ -2503,9 +2500,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": "1.0.0",
           "Microsoft.Extensions.FileProviders.Embedded": "(, )"
         },
         "compile": {
@@ -2519,7 +2513,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.MongoDB\\Volo.Abp.MongoDB.csproj": "1.0.0",
           "Volo.Abp.SettingManagement.Domain": "1.0.0"
         },
         "compile": {
@@ -2533,8 +2526,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj": "1.0.0",
-          "C:\\framework\\src\\Volo.Abp.TestBase\\Volo.Abp.TestBase.csproj": "1.0.0",
           "Microsoft.NET.Test.Sdk": "(, )",
           "NSubstitute": "(, )",
           "Shouldly": "(, )",
@@ -7608,87 +7599,6 @@
       "warningLevel": 1,
       "message": "Volo.Abp.SettingManagement.TestBase does not provide an inclusive lower bound for dependency xunit.runner.visualstudio. An approximate best match of xunit.runner.visualstudio 0.99.2 was resolved.",
       "libraryId": "xunit.runner.visualstudio",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.TestBase\\Volo.Abp.TestBase.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.TestBase\\Volo.Abp.TestBase.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.MongoDB\\Volo.Abp.MongoDB.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.MongoDB\\Volo.Abp.MongoDB.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         "net7.0"
       ]
