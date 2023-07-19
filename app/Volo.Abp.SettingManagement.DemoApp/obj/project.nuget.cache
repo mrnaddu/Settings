@@ -1,36 +1,41 @@
 {
   "version": 2,
-  "dgSpecHash": "5D213TRAZFGEuHdpkx9gEL7rawT56WcJu0WkVZD7LnACd7LNYfisix638moeAlXGpdDqIA3DybKSaBQCRX8v+Q==",
+  "dgSpecHash": "ERFaZW1Y3s353cpApcuQ0qzwTH0WV91cqDHLta2xjUz11VxFg9wCK0tiqZpZuXbHVVDgSQXt2q3SWdkBB9u6rg==",
   "success": false,
-  "projectFilePath": "C:\\abp\\modules\\setting-management\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj",
+  "projectFilePath": "C:\\Settings\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\moham\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.1\\microsoft.entityframeworkcore.analyzers.7.0.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.1\\microsoft.entityframeworkcore.design.7.0.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.1\\microsoft.entityframeworkcore.relational.7.0.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.1\\microsoft.entityframeworkcore.tools.7.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\1.0.2\\microsoft.aspnetcore.hosting.abstractions.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\1.0.2\\microsoft.aspnetcore.hosting.server.abstractions.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\1.0.2\\microsoft.aspnetcore.http.abstractions.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.http.features\\1.0.2\\microsoft.aspnetcore.http.features.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore\\1.0.3\\microsoft.entityframeworkcore.1.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.design\\1.0.3\\microsoft.entityframeworkcore.design.1.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\1.0.3\\microsoft.entityframeworkcore.relational.1.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.0.3\\microsoft.entityframeworkcore.relational.design.1.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\1.0.0\\microsoft.entityframeworkcore.tools.1.0.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.0\\microsoft.extensions.fileproviders.embedded.7.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\1.0.2\\microsoft.extensions.caching.abstractions.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.caching.memory\\1.0.2\\microsoft.extensions.caching.memory.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\1.0.2\\microsoft.extensions.dependencyinjection.1.0.2.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\1.0.0\\microsoft.extensions.fileproviders.embedded.1.0.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging\\2.0.0\\microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\polly\\1.0.0\\polly.1.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\remotion.linq\\2.1.1\\remotion.linq.2.1.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\runtime.native.system.net.http\\4.0.1\\runtime.native.system.net.http.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\runtime.native.system.security.cryptography\\4.0.0\\runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\serilog.extensions.hosting\\4.2.0\\serilog.extensions.hosting.4.2.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
@@ -39,259 +44,358 @@
     "C:\\Users\\moham\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\moham\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.collections.concurrent\\4.0.12\\system.collections.concurrent.4.0.12.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.collections.immutable\\1.2.0\\system.collections.immutable.1.2.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.collections.nongeneric\\4.0.1\\system.collections.nongeneric.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.componentmodel.annotations\\4.1.0\\system.componentmodel.annotations.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.data.common\\4.1.0\\system.data.common.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.0.0\\system.diagnostics.diagnosticsource.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.diagnostics.tracing\\4.1.0\\system.diagnostics.tracing.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.globalization.calendars\\4.0.1\\system.globalization.calendars.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.globalization.extensions\\4.0.1\\system.globalization.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.interactive.async\\3.0.0\\system.interactive.async.3.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.linq.expressions\\4.1.1\\system.linq.expressions.4.1.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.net.primitives\\4.0.11\\system.net.primitives.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.net.websockets\\4.0.0\\system.net.websockets.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.0.1\\system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection.emit.lightweight\\4.0.1\\system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection.extensions\\4.0.1\\system.reflection.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.reflection.typeextensions\\4.1.0\\system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime.numerics\\4.0.1\\system.runtime.numerics.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.claims\\4.0.1\\system.security.claims.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.algorithms\\4.2.0\\system.security.cryptography.algorithms.4.2.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.cng\\4.2.0\\system.security.cryptography.cng.4.2.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.csp\\4.0.0\\system.security.cryptography.csp.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.encoding\\4.0.0\\system.security.cryptography.encoding.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.openssl\\4.0.0\\system.security.cryptography.openssl.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.primitives\\4.0.0\\system.security.cryptography.primitives.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.1.0\\system.security.cryptography.x509certificates.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.security.principal\\4.0.1\\system.security.principal.4.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.text.encodings.web\\4.0.0\\system.text.encodings.web.4.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
   ],
   "logs": [
     {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj",
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency Microsoft.EntityFrameworkCore.Tools does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Volo.Abp.SettingManagement.Domain.Shared does not provide an inclusive lower bound for dependency Microsoft.Extensions.FileProviders.Embedded. An approximate best match of Microsoft.Extensions.FileProviders.Embedded 1.0.0 was resolved.",
+      "libraryId": "Microsoft.Extensions.FileProviders.Embedded",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj",
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Volo.Abp.SettingManagement.Web does not provide an inclusive lower bound for dependency Microsoft.Extensions.FileProviders.Embedded. An approximate best match of Microsoft.Extensions.FileProviders.Embedded 1.0.0 was resolved.",
+      "libraryId": "Microsoft.Extensions.FileProviders.Embedded",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj",
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Volo.Abp.SettingManagement.Domain does not provide an inclusive lower bound for dependency Polly. An approximate best match of Polly 1.0.0 was resolved.",
+      "libraryId": "Polly",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj",
+      "message": "Unable to find project 'C:\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj",
+      "message": "Unable to find project 'C:\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj",
+      "message": "Unable to find project 'C:\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj",
+      "message": "Unable to find project 'C:\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj",
+      "message": "Unable to find project 'C:\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj",
+      "message": "Unable to find project 'C:\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj",
+      "message": "Unable to find project 'C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj",
+      "message": "Unable to find project 'C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj",
+      "message": "Unable to find project 'C:\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj",
+      "message": "Unable to find project 'C:\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj",
+      "message": "Unable to find project 'C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj",
+      "message": "Unable to find project 'C:\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj",
       "targetGraphs": [
         "net7.0"
       ]
     },
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Polly 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Polly",
       "targetGraphs": [
         "net7.0"
       ]

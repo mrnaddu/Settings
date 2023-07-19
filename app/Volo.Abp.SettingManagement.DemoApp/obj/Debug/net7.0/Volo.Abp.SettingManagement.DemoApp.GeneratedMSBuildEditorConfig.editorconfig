@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Volo.Abp.SettingManagement.DemoApp
 build_property.RootNamespace = Volo.Abp.SettingManagement.DemoApp
-build_property.ProjectDir = C:\abp\modules\setting-management\app\Volo.Abp.SettingManagement.DemoApp\
+build_property.ProjectDir = C:\Settings\app\Volo.Abp.SettingManagement.DemoApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\abp\modules\setting-management\app\Volo.Abp.SettingManagement.DemoApp
+build_property.MSBuildProjectDirectory = C:\Settings\app\Volo.Abp.SettingManagement.DemoApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/abp/modules/setting-management/app/Volo.Abp.SettingManagement.DemoApp/Pages/Index.cshtml]
+[C:/Settings/app/Volo.Abp.SettingManagement.DemoApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/abp/modules/setting-management/app/Volo.Abp.SettingManagement.DemoApp/Pages/_ViewImports.cshtml]
+[C:/Settings/app/Volo.Abp.SettingManagement.DemoApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,20 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\abp\\modules\\setting-management\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj": {}
+    "C:\\Settings\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj": {}
   },
   "projects": {
-    "C:\\abp\\modules\\setting-management\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj",
+        "projectUniqueName": "C:\\Settings\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj",
         "projectName": "Volo.Abp.SettingManagement.DemoApp",
-        "projectPath": "C:\\abp\\modules\\setting-management\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj",
+        "projectPath": "C:\\Settings\\app\\Volo.Abp.SettingManagement.DemoApp\\Volo.Abp.SettingManagement.DemoApp.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\app\\Volo.Abp.SettingManagement.DemoApp\\obj\\",
+        "outputPath": "C:\\Settings\\app\\Volo.Abp.SettingManagement.DemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -24,66 +23,65 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj"
+              "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Autofac\\Volo.Abp.Autofac.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj"
+              "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore.SqlServer\\Volo.Abp.EntityFrameworkCore.SqlServer.csproj"
               },
-              "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj": {
-                "projectPath": "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj"
+              "C:\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj": {
+                "projectPath": "C:\\modules\\account\\src\\Volo.Abp.Account.Application\\Volo.Abp.Account.Application.csproj"
               },
-              "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj": {
-                "projectPath": "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj"
+              "C:\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj": {
+                "projectPath": "C:\\modules\\account\\src\\Volo.Abp.Account.HttpApi\\Volo.Abp.Account.HttpApi.csproj"
               },
-              "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj": {
-                "projectPath": "C:\\abp\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj"
+              "C:\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj": {
+                "projectPath": "C:\\modules\\account\\src\\Volo.Abp.Account.Web\\Volo.Abp.Account.Web.csproj"
               },
-              "C:\\abp\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj": {
-                "projectPath": "C:\\abp\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj"
+              "C:\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj": {
+                "projectPath": "C:\\modules\\basic-theme\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj"
               },
-              "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj": {
-                "projectPath": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj"
+              "C:\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj": {
+                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.Application\\Volo.Abp.Identity.Application.csproj"
               },
-              "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj"
+              "C:\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.EntityFrameworkCore\\Volo.Abp.Identity.EntityFrameworkCore.csproj"
               },
-              "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj": {
-                "projectPath": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj"
+              "C:\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj": {
+                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.HttpApi\\Volo.Abp.Identity.HttpApi.csproj"
               },
-              "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj": {
-                "projectPath": "C:\\abp\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj"
+              "C:\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj": {
+                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.Identity.Web\\Volo.Abp.Identity.Web.csproj"
               },
-              "C:\\abp\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj": {
-                "projectPath": "C:\\abp\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj"
+              "C:\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj": {
+                "projectPath": "C:\\modules\\identity\\src\\Volo.Abp.PermissionManagement.Domain.Identity\\Volo.Abp.PermissionManagement.Domain.Identity.csproj"
               },
-              "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj": {
-                "projectPath": "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj"
+              "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj": {
+                "projectPath": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.Application\\Volo.Abp.PermissionManagement.Application.csproj"
               },
-              "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj"
+              "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.EntityFrameworkCore\\Volo.Abp.PermissionManagement.EntityFrameworkCore.csproj"
               },
-              "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj": {
-                "projectPath": "C:\\abp\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj"
+              "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj": {
+                "projectPath": "C:\\modules\\permission-management\\src\\Volo.Abp.PermissionManagement.HttpApi\\Volo.Abp.PermissionManagement.HttpApi.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj"
               }
             }
           }
@@ -100,13 +98,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[7.0.1, )"
-            },
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "(, )"
             },
             "Serilog.Extensions.Hosting": {
               "target": "Package",
@@ -144,18 +136,17 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj",
         "projectName": "Volo.Abp.SettingManagement.Application.Contracts",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,49 +157,48 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
+              "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
+              "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
+              "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Authorization.Abstractions\\Volo.Abp.Authorization.Abstractions.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application.Contracts\\Volo.Abp.Ddd.Application.Contracts.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -222,14 +212,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -251,12 +233,6 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -279,14 +255,6 @@
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -307,17 +275,16 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj",
         "projectName": "Volo.Abp.SettingManagement.Application",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\Volo.Abp.SettingManagement.Application.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -326,24 +293,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Application\\Volo.Abp.Ddd.Application.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj"
+              "C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Emailing\\Volo.Abp.Emailing.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj"
               }
             }
           }
@@ -357,14 +323,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -385,18 +343,17 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj",
         "projectName": "Volo.Abp.SettingManagement.Domain.Shared",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -407,49 +364,48 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
+              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
+              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
+              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
+              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
+              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
+              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
+              "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
+              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
+              "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj"
               }
             }
           }
@@ -466,13 +422,7 @@
           "dependencies": {
             "Microsoft.Extensions.FileProviders.Embedded": {
               "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -499,13 +449,7 @@
           "dependencies": {
             "Microsoft.Extensions.FileProviders.Embedded": {
               "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "(, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -533,13 +477,7 @@
           "dependencies": {
             "Microsoft.Extensions.FileProviders.Embedded": {
               "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -563,18 +501,17 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj",
         "projectName": "Volo.Abp.SettingManagement.Domain",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -585,58 +522,57 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
+              "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
+              "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
+              "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
+              "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
+              "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
+              "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
+              "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -651,15 +587,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            },
             "Polly": {
               "target": "Package",
-              "version": "[7.2.3, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -684,12 +614,6 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -698,7 +622,7 @@
             },
             "Polly": {
               "target": "Package",
-              "version": "[7.2.3, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -718,15 +642,9 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            },
             "Polly": {
               "target": "Package",
-              "version": "[7.2.3, )"
+              "version": "(, )"
             }
           },
           "imports": [
@@ -750,17 +668,16 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj",
         "projectName": "Volo.Abp.SettingManagement.EntityFrameworkCore",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\Volo.Abp.SettingManagement.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -769,18 +686,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj"
+              "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.EntityFrameworkCore\\Volo.Abp.EntityFrameworkCore.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj"
               }
             }
           }
@@ -794,14 +710,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            }
-          },
           "imports": [
             "portable-net45+win8+wp8+wpa81",
             "net461",
@@ -823,17 +731,16 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj",
         "projectName": "Volo.Abp.SettingManagement.HttpApi",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\Volo.Abp.SettingManagement.HttpApi.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.HttpApi\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.HttpApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -842,18 +749,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj"
+              "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc\\Volo.Abp.AspNetCore.Mvc.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -867,14 +773,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -895,17 +793,16 @@
         }
       }
     },
-    "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj": {
-      "version": "7.4.0",
+    "C:\\Settings\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj",
+        "projectUniqueName": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj",
         "projectName": "Volo.Abp.SettingManagement.Web",
-        "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj",
+        "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Web\\Volo.Abp.SettingManagement.Web.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Web\\obj\\",
+        "outputPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\abp\\NuGet.Config",
           "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -915,27 +812,26 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj"
+              "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared\\Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj"
+              "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.AutoMapper\\Volo.Abp.AutoMapper.csproj"
               },
-              "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
-                "projectPath": "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
+              "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj": {
+                "projectPath": "C:\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Application.Contracts\\Volo.Abp.SettingManagement.Application.Contracts.csproj"
               },
-              "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
-                "projectPath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
+              "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj": {
+                "projectPath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Domain.Shared\\Volo.Abp.SettingManagement.Domain.Shared.csproj"
               }
             }
           }
@@ -952,13 +848,7 @@
           "dependencies": {
             "Microsoft.Extensions.FileProviders.Embedded": {
               "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "(, )"
             }
           },
           "imports": [

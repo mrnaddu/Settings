@@ -1,19 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QKed++Az4Ul2r68gWKy5JPFkhw6KyacT+w7ZjeDjWrpV+ZxAlJonottldfWVLguo1BimP2KHqTdNDIzjtQPmJA==",
+  "dgSpecHash": "Rh85VYvE5dvolYYiu9HYGinyzxs1bm1QrfMJwEckKL89PRMTjzCWv38Dr+fK6FUEV3wOdd5hzZhN1RMJTzgu2Q==",
   "success": false,
-  "projectFilePath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Installer\\Volo.Abp.SettingManagement.Installer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Settings\\src\\Volo.Abp.SettingManagement.Installer\\Volo.Abp.SettingManagement.Installer.csproj",
+  "expectedPackageFiles": [],
   "logs": [
     {
-      "code": "NU1105",
+      "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.VirtualFileSystem\\Volo.Abp.VirtualFileSystem.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.VirtualFileSystem\\Volo.Abp.VirtualFileSystem.csproj",
+      "message": "Unable to find project 'C:\\framework\\src\\Volo.Abp.VirtualFileSystem\\Volo.Abp.VirtualFileSystem.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\framework\\src\\Volo.Abp.VirtualFileSystem\\Volo.Abp.VirtualFileSystem.csproj",
       "targetGraphs": [
         "net7.0"
       ]

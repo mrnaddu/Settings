@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Volo.Abp.SettingManagement.Web
 build_property.RootNamespace = Volo.Abp.SettingManagement.Web
-build_property.ProjectDir = C:\abp\modules\setting-management\src\Volo.Abp.SettingManagement.Web\
+build_property.ProjectDir = C:\Settings\src\Volo.Abp.SettingManagement.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\abp\modules\setting-management\src\Volo.Abp.SettingManagement.Web
+build_property.MSBuildProjectDirectory = C:\Settings\src\Volo.Abp.SettingManagement.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/abp/modules/setting-management/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Components/EmailSettingGroup/Default.cshtml]
+[C:/Settings/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Components/EmailSettingGroup/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ01hbmFnZW1lbnRcQ29tcG9uZW50c1xFbWFpbFNldHRpbmdHcm91cFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/abp/modules/setting-management/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Components/EmailSettingGroup/SendTestEmailModal.cshtml]
+[C:/Settings/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Components/EmailSettingGroup/SendTestEmailModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ01hbmFnZW1lbnRcQ29tcG9uZW50c1xFbWFpbFNldHRpbmdHcm91cFxTZW5kVGVzdEVtYWlsTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/abp/modules/setting-management/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Components/TimeZoneSettingGroup/Default.cshtml]
+[C:/Settings/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Components/TimeZoneSettingGroup/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ01hbmFnZW1lbnRcQ29tcG9uZW50c1xUaW1lWm9uZVNldHRpbmdHcm91cFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/abp/modules/setting-management/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Index.cshtml]
+[C:/Settings/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ01hbmFnZW1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/abp/modules/setting-management/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/_ViewImports.cshtml]
+[C:/Settings/src/Volo.Abp.SettingManagement.Web/Pages/SettingManagement/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ01hbmFnZW1lbnRcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
