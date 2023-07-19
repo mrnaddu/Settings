@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhfFYDUpA3s35sP/26O/kSRBrtJObAl5jzjAeYRLc451+tZ6/OBWJ586JsEH7cV8YL3orj23aCR/vro/gPUzSA==",
+  "success": false,
+  "projectFilePath": "C:\\abp\\modules\\setting-management\\src\\Volo.Abp.SettingManagement.Domain\\Volo.Abp.SettingManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.0\\microsoft.extensions.fileproviders.embedded.7.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Caching\\Volo.Abp.Caching.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0",
+        ".NETStandard,Version=v2.1",
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Settings\\Volo.Abp.Settings.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0",
+        ".NETStandard,Version=v2.1",
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Ddd.Domain\\Volo.Abp.Ddd.Domain.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0",
+        ".NETStandard,Version=v2.1",
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Features\\Volo.Abp.Features.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0",
+        ".NETStandard,Version=v2.1",
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Validation\\Volo.Abp.Validation.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0",
+        ".NETStandard,Version=v2.1",
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\abp\\framework\\src\\Volo.Abp.Localization\\Volo.Abp.Localization.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0",
+        ".NETStandard,Version=v2.1",
+        "net7.0"
+      ]
+    }
+  ]
+}
